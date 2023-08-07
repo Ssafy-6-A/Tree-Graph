@@ -23,7 +23,7 @@ https://epicarts.tistory.com/98
 
 [BOJ_1991 트리 순회](https://www.acmicpc.net/problem/1991)
 
-[BOJ_3584 가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584)
+[BOJ_3584_LCA 가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584)
 
 - 수혁 서현 하윤 그룹
 
