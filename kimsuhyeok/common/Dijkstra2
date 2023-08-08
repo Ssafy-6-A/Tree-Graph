@@ -22,7 +22,7 @@ import java.util.StringTokenizer;
  * 2 3 4
  * 2 4 5
  * 3 4 6
- * 
+ * 시간복잡도 O(n*log(n))
  * @author SSAFY
  *
  */
